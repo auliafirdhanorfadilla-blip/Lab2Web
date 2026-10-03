@@ -60,7 +60,18 @@
 ## Multimedia
 Project ini juga menggunakan
 - Audio
+        <h3>Audio</h3>
+                <audio controls>
+                    <source src="media/music.mp3" type="audio/mpeg">
+                    Browser Anda tidak mendukung elemen video.
+                </audio>
 - Video
+        <h3>Video</h3>
+                <video controls width="480">
+                    <source src="media/videoo.mp4" type="video/mp4">
+                    Browser Anda tidak mendukung elemen video.
+        </video>
+
 
 ## Tampilan
 File utama yang digunakan adalah 'index.html'
