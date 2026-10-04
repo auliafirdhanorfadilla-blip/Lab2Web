@@ -62,11 +62,6 @@ Berikut, outputnya :
 ![Gambar 4](ss/hasil2.png)
 
 # 3. Form Biodata
-Membuat form registrasi 
-![Gambar 5](ss/ss3.png)
-Berikut, outputnya :
-![Gambar 6](ss/hasil3.png)
-
 ### Fitur Form Biodata
 - Nama
 - Email
@@ -74,6 +69,15 @@ Berikut, outputnya :
 - Alamat
 - Tombol Simpan
 - Tombol Reset
+Membuat form registrasi 
+![Gambar 5](ss/ss3.png)
+Berikut, outputnya :
+![Gambar 6](ss/hasil3.png)
+
+### Membuat radio & checkbox (opsi)
+![Gambar 7](ss/ss4.png)
+Berikut, outputnya :
+![Gambar 8](ss/hasil4.png)
 
 ## Multimedia
 Project ini juga menggunakan
