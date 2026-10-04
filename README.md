@@ -60,12 +60,14 @@
 ## Multimedia
 Project ini juga menggunakan
 - Audio
+[Klik disini untuk mendengarkan audio](music.mp3)
         <h3>Audio</h3>
                 <audio controls>
                     <source src="music.mp3" type="audio/mpeg">
                     Browser Anda tidak mendukung elemen video.
                 </audio>
 - Video
+[Klik disini untuk melihat video](videoo.mp4)
         <h3>Video</h3>
                 <video controls width="480">
                     <source src="videoo.mp4" type="video/mp4">
