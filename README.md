@@ -24,8 +24,8 @@
             </tr>       
 </table>
 
-# Membuat tabel data (tidak bisa diubah)
-Membuat tabel data mahasiswa (tidak bisa diubah)<p>
+### Membuat tabel data (tidak bisa diubah)
+Membuat tabel data mahasiswa (tidak bisa diubah)
 ![Gambar 1](ss/ss1.png)
 Berikut, Outputnya :
 ![Gambar 2](ss/hasil1.png)
@@ -54,6 +54,12 @@ Berikut, Outputnya :
                 <td>95</td>
             </tr>      
 </table>
+
+### Membuat tabel nilai mahasiswa (sel & baris)
+Nilai praktikum :
+![Gambar 3](ss/ss2.png)
+Berikut, outputnya :
+![Gambar 4](ss/hasil2.png)
 
 ## Form Biodata
 ### Fitur Form Biodata
