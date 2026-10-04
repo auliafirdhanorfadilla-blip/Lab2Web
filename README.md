@@ -31,7 +31,7 @@ Berikut, Outputnya :
 ![Gambar 2](ss/hasil1.png)
 
 
-## Nilai Praktikum
+# 2. Nilai Praktikum
 <table border="2">
             <tr>
                 <td>No</td>
@@ -61,7 +61,12 @@ Nilai praktikum :
 Berikut, outputnya :
 ![Gambar 4](ss/hasil2.png)
 
-## Form Biodata
+# 3. Form Biodata
+Membuat form registrasi 
+![Gambar 5](ss/ss3.png)
+Berikut, outputnya :
+![Gambar 6](ss/hasil3.png)
+
 ### Fitur Form Biodata
 - Nama
 - Email
