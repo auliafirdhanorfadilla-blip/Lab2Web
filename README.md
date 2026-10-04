@@ -1,5 +1,5 @@
 # Lab2Web
-# Data Mahasiswa
+# 1. Data Mahasiswa
 
 <table border="1">
             <tr>
@@ -23,6 +23,13 @@
                 <td>Teknik Informatika</td>
             </tr>       
 </table>
+
+# Membuat tabel data (tidak bisa diubah)
+Membuat tabel data mahasiswa (tidak bisa diubah)<p>
+![Gambar 1](ss/ss1.png)
+Berikut, Outputnya :
+![Gambar 2](ss/hasil1.png)
+
 
 ## Nilai Praktikum
 <table border="2">
