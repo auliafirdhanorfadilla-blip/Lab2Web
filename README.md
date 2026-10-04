@@ -70,28 +70,25 @@ Berikut, outputnya :
 - Tombol Reset
 Membuat form registrasi 
 ![Gambar 5](ss/ss3.png)
-Berikut, outputnya :
-![Gambar 6](ss/hasil3.png)
+Berikut, outputnya :![Gambar 6](ss/hasil3.png)
 
 ### Membuat radio & checkbox (opsi)
 ![Gambar 7](ss/ss4.png)
-Berikut, outputnya :
-![Gambar 8](ss/hasil4.png)
+Berikut, outputnya :![Gambar 8](ss/hasil4.png)
 
 ### Membuat dropdown & text area
-![Gambar 9](ss/ss5.png)
-Berikut, outputnya :
-![Gambar 10](ss/hasil5.png)
+![Gambar 9](ss/ss5.png) 
+Berikut, outputnya :![Gambar 10](ss/hasil5.png)
 
 ### Membuat validasi form dasar
-![Gambar 11](ss/ss6.png) Berikut, outputnya :
-![Gambar 12](ss/hasil6.png)
+![Gambar 11](ss/ss6.png) 
+Berikut, outputnya :![Gambar 12](ss/hasil6.png)
 
 # 4. Halaman Semantik HTML
-![Gambar 13](ss/ss7.png) Berikut, outputnya :
-![Gambar 14](ss/hasil7.png)
+![Gambar 13](ss/ss7.png) 
+Berikut, outputnya :![Gambar 14](ss/hasil7.png)
 
-## Multimedia
+# 5. Multimedia
 Project ini juga menggunakan
 - Audio
 [Klik disini untuk mendengarkan audio](music.mp3)
@@ -108,6 +105,8 @@ Project ini juga menggunakan
                     Browser Anda tidak mendukung elemen video.
         </video>
 
+![Gambar 14](ss/ss8.png)
+Berikut, outputnya : ![Gambar 15](ss/hasil8.png)
 
 ## Tampilan
 File utama yang digunakan adalah 'index.html'
