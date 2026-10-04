@@ -25,7 +25,6 @@
 </table>
 
 ### Membuat tabel data (tidak bisa diubah)
-Membuat tabel data mahasiswa (tidak bisa diubah)
 ![Gambar 1](ss/ss1.png)
 Berikut, Outputnya :
 ![Gambar 2](ss/hasil1.png)
@@ -56,10 +55,10 @@ Berikut, Outputnya :
 </table>
 
 ### Membuat tabel nilai mahasiswa (sel & baris)
-Nilai praktikum :
 ![Gambar 3](ss/ss2.png)
 Berikut, outputnya :
 ![Gambar 4](ss/hasil2.png)
+
 
 # 3. Form Biodata
 ### Fitur Form Biodata
@@ -78,6 +77,11 @@ Berikut, outputnya :
 ![Gambar 7](ss/ss4.png)
 Berikut, outputnya :
 ![Gambar 8](ss/hasil4.png)
+
+### Membuat dropdown & text area
+![Gambar 9](ss/ss5.png)
+Berikut, outputnya :
+![Gambar 10](ss/hasil5.png)
 
 ## Multimedia
 Project ini juga menggunakan
