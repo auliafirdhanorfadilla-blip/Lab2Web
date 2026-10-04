@@ -83,10 +83,13 @@ Berikut, outputnya :
 Berikut, outputnya :
 ![Gambar 10](ss/hasil5.png)
 
-### Mmebuat validasi form dasar
-![Gambar 11](ss/ss6.png)
-Berikut, outputnya :
+### Membuat validasi form dasar
+![Gambar 11](ss/ss6.png) Berikut, outputnya :
 ![Gambar 12](ss/hasil6.png)
+
+# 4. Halaman Semantik HTML
+![Gambar 13](ss/ss7.png) Berikut, outputnya :
+![Gambar 14](ss/hasil7.png)
 
 ## Multimedia
 Project ini juga menggunakan
